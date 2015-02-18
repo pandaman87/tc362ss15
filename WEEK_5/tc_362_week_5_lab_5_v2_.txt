@@ -1,0 +1,8 @@
+THE NAME OF MY DOMAIN IS 
+
+tc362weeklab5.com
+
+
+have a great day!!
+
+it should redirect if it works to the lab 4 work of Hello world
